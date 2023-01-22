@@ -1,0 +1,20 @@
+[
+    {
+        "branchId": 1,
+        "name": "Makro Yunusobod",
+        "address": "Yunusuobod, Shahristanskiy",
+        "marketId": 1
+    },
+    {
+        "branchId": 2,
+        "name": "Karzika chilonzor",
+        "address": "Yunusuobod, Chilonzor metro",
+        "marketId": 2
+    },
+    {
+        "branchId": 3,
+        "name": "Savdo",
+        "address": "Tashkent",
+        "marketId": 4
+    }
+]
